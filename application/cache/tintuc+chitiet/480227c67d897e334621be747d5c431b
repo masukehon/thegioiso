@@ -1,0 +1,111 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:1:{i:0;a:16:{s:2:"id";s:1:"2";s:4:"name";s:130:"Nghe nhiều về AI nhưng bạn đã thực sự hiểu về nó chưa? Nếu chưa thì đây là bài viết bạn nên đọc";s:10:"alias_name";s:95:"Nghe-nhieu-ve-AI-nhung-ban-da-thuc-su-hieu-ve-no-chua?-Neu-chua-thi-day-la-bai-viet-ban-nen-doc";s:11:"id_category";s:1:"1";s:9:"describes";s:206:"AI. Máy học. Mạng neuron. Máy tính "nghĩ" theo cách của con người. Những khái niệm đó tưởng như bước ra từ một câu chuyện viễn tưởng nhưng lại không hề xa vời";s:7:"content";s:9765:"<p>Khi đọc về máy tính, bạn có lẽ đã biết rằng máy tính có thể đánh bại con người trên bàn cờ vua từ hàng chục năm trước. Nhưng cùng lúc, người ta vẫn nói rằng trí thông minh của chiếc máy vẫn chỉ ngang ngửa với con ruồi, con muỗi, phải còn rất lâu mới có thể đạt được như con người.</p>
+
+<p>Tại sao lại có sự trái ngược này?</p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 3." src="http://genknews.genkcdn.vn/2017/ai10-1512992296421.jpg"></p>
+
+<p>Nói ngắn gọn, câu trả lời nằm ở lối suy nghĩ theo kiểu "khi nào thì làm gì" của máy tính. Trong hàng chục năm qua, các bộ óc thiên tài của loài người tạo ra các cơ chế phần cứng, các ngôn ngữ lập trình phần mềm để tạo ra những câu lệnh logic "tủn mủn" dạng như: khi nhận được x = 2 thì thông báo x là số chẵn, khi nhận được x = 2 trong phép *4 thì trả về 8 v...v...<em> </em></p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 4." src="http://genknews.genkcdn.vn/2017/ai13-1512992296422.jpg"></p>
+
+<p>"Khi nào thì làm gì" diễn ra ở nhiều cấp độ: nhận được tín hiệu từ bàn phím/chuột truyền về CPU/mainboard thì làm gì, người dùng nhấn Ctrl F trong giao diện Word thì làm gì, máy chủ Facebook nhận được đoạn dữ liệu chứa comment của người dùng thì làm gì... Tất cả các hệ thống, dù phức tạp đến mấy đều được xây dựng từ những lớp "khi nào thì làm gì" tương tự như vậy.</p>
+
+<p>Hiển nhiên, cả phần "khi nào" lẫn phần "làm gì" của máy tính chỉ là những con số. Là byte, là bit. Các biện pháp nhập liệu như bàn phím, chuột, màn hình cảm ứng; những cách thiết kế phần cứng/phần mềm rành mạch để bẻ nhỏ phần trách nhiệm cho từng kỹ sư phần cứng/phần mềm; các hệ điều hành (vốn là tầng phần mềm duy nhất được quyền giao tiếp trực tiếp đến phần cứng), các ngôn ngữ lập trình... đều là những cách để con người có thể truyền tải suy nghĩ của mình vào lối suy nghĩ <em>khi nào thì làm gì </em>của máy móc.</p>
+
+<p>  </p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 5." src="http://genknews.genkcdn.vn/2017/ai16-1512992296423.jpg"></p>
+
+<p>Cuộc sống của tôi và bạn về bản chất cũng là những chuỗi "khi nào thì làm gì". Đau thì khóc, ngửi thấy mùi hôi thì bịt mũi. Khi muốn viết bài gửi Genk thì rê chuột để bật Word. Nhìn thấy mèo thì chạy lại bế lên rồi xuýt xoa... Chúng ta cũng "khi nào thì làm gì", nhưng không phải là bằng 0 và 1 mà là bằng não bộ và các bộ phận tự nhiên của cơ thể, không phải là với những câu lệnh hay tín hiệu "tủn mủn" mà là với những "hành động" lớn có sự tham gia của não bộ và hệ thần kinh.</p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 6." src="http://genknews.genkcdn.vn/2017/ai19-1512992296424.jpg"></p>
+
+<p>Chính sự giống và khác này lý giải vì sao máy tính có thể đánh bại con người trên bàn cờ vua nhưng vẫn thua xa trí thông minh con người: Bàn cờ vua chỉ có 64 ô, có 32 quân cơ chia làm 6 loại và 2 phe. Để thắng được cờ vua, bạn chỉ cần dự tính các bước đi của đối thủ.</p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 7." src="http://genknews.genkcdn.vn/2017/ai22-1512992296425.jpg"></p>
+
+<p>Theo định luật Moore, máy tính cứ 18 tháng 1 lần thì lại mạnh gấp đôi. Năm 1997, máy tính IBM xây dựng được máy tính Deep Blue bao gồm 30 máy con được tích hợp vi xử lý 120MHz/mỗi máy và 480 chip VLSI đặc thù được dùng để tính toán ra 200 triệu vị trí bàn cờ trong một giây. Như thế, bằng cách dự tính được quá nhiều nước cờ chỉ bằng các phép tính kiểu "trâu bò", Deep Blue đã có thể đánh bại đại kiện tướng Kasparov một cách dễ dàng.</p>
+
+<p>Đến nay, con người tuyệt nhiên không còn khả năng đánh bại các app cờ vua trên smartphone. Như thế, chúng ta đã có thể nói rằng <strong>"trí thông minh nhân tạo" (AI) đã có từ lâu: máy tính đã có các "đơn vị thông minh" có thể "cảm nhận" tình huống và tự chọn các hành động để đạt được mục đích của mình </strong>– trong trường hợp của Deep Blue, là "hiểu" và dự đoán được tình thế trên bàn cờ và chọn được bước để chiến thắng trên bàn cờ vua.</p>
+
+<p> </p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 8." src="http://genknews.genkcdn.vn/2017/ai26-1512992296426.jpg"></p>
+
+<p>Khi chuyển sang những cuộc chơi khác, máy tính truyền thống không còn lợi thế với con người. Cờ vây chẳng hạn: trò chơi này có vô số nước đi phức tạp. Ngay cả ở năm 2015, một thế lực như Google cũng không thể tạo ra những server farm (trang trại máy chủ) có khả năng tính hết số nước đi có thể xảy ra trên bàn cờ vây. Một siêu máy tính của 10 năm nữa chưa chắc đã có thể đánh bại con người theo cách tính toán đơn thuần đã từng dùng trên bàn cờ vua.</p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 9." src="http://genknews.genkcdn.vn/2017/ai28-1512992296427.jpg"></p>
+
+<p>Đây là lúc vai trò của "máy học" xuất hiện. AlphaGo trở thành một kỳ thủ giỏi không phải nhờ cách tính toán đơn thuần như DeepBlue, mà là "học" theo kiểu của con người: phải biết các chiến thuật, các bước đi, phải chọn lọc phản ứng phù hợp. Google không dùng phần cứng của AlphaGo để tính toán "tủn mủn" từng bước, mà để nạp dữ liệu từ rất nhiều ván cờ vây của quá khứ, để AlphaGo tự cải thiện bằng cách đấu với các kỳ thủ toàn cầu.</p>
+
+<p>Tổng cộng, AlphaGo đã học 30 triệu bước đi từ các đối thủ con người và còn tự học được nhiều bước đi khác khi tự đấu với chính mình. Những gì AlphaGo biểu hiện chính là định nghĩa của máy học: <strong>máy tính vượt qua thứ logic "bước-luật lệ" bình thường để "học" từ dữ liệu và tự đưa ra các dự đoán phù hợp nhằm tạo các quyết định chính xác nhất.</strong></p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 10." src="http://genknews.genkcdn.vn/2017/ai31-1512992296428.jpg"></p>
+
+<p>3 đại kiện tướng Fan Hui, Lee Sedol và Ke Jie lần lượt bại trận trước cỗ máy của Google. Thậm chí, AlphaGo không chỉ nhận diện được cả<strong> </strong>chiến thuật của đối thủ (ví dụ, khi nào thì Lee Sedol đang đi theo hướng nakade). Với mô hình máy học, "lối suy nghĩ" dần dần vượt ra khỏi sự tủn mủn của bóng bán dẫn để mở rộng thành những "hành động" cao hơn, người hơn.</p>
+
+<p>  </p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 11." src="http://genknews.genkcdn.vn/2017/ai34-1512992296428.jpg"></p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 12." src="http://genknews.genkcdn.vn/2017/ai38-1512992296429.jpg"></p>
+
+<p>Bất chấp những thắng lợi to lớn trên bàn cờ vây - và sau đó là cả thắng lợi trong DOTA2 solo, AI vẫn sẽ phải mất nhiều thời gian nữa mới có thể coi là thông minh ngang ngửa với con người. Cờ vây vẫn là một trò chơi có thể "số hóa" khá dễ: ví dụ, lập trình viên có thể dùng một ô nhớ để đại diện cho một vị trí trên bàn cờ, nếu là quân trắng thì dùng bit 0, quân đen thì dùng bit 1. Dĩ nhiên, giải thuật và cách thực thi của AlphaGo không đơn giản như vậy - nhưng để số hóa được ván cờ vây và số hóa được những hình ảnh, lời nói và hành động đơn giản trong cuộc sống con người vẫn là hai phạm trù khác biệt nhau.</p>
+
+<p>Thử lấy một khái niệm đơn giản: mèo. Tôi có một đứa cháu 2 tuổi rưỡi vừa học nói, mỗi lần bà cho ăn nó lại nói "Bông ăn thì mèo không chạy lại cắn Bông" (vì Bông một lần bị mèo đuổi). Lúc Bông mới học nói, bà bế lên gác, nhìn thấy mèo, dù là mèo tam thể hay mèo Ba Tư, bà đều chỉ cho Bông.</p>
+";s:7:"is_show";s:1:"1";s:5:"image";s:23:"cover-1512992347420.jpg";s:11:"image_thumb";s:29:"cover-1512992347420_thumb.jpg";s:12:"is_highlight";s:1:"0";s:5:"views";N;s:9:"create_at";s:19:"2017-12-19 02:42:32";s:9:"update_at";s:19:"2017-12-19 02:42:32";s:9:"title_seo";N;s:12:"keywords_seo";N;s:15:"description_seo";N;}}s:13:"result_object";a:1:{i:0;O:8:"stdClass":16:{s:2:"id";s:1:"2";s:4:"name";s:130:"Nghe nhiều về AI nhưng bạn đã thực sự hiểu về nó chưa? Nếu chưa thì đây là bài viết bạn nên đọc";s:10:"alias_name";s:95:"Nghe-nhieu-ve-AI-nhung-ban-da-thuc-su-hieu-ve-no-chua?-Neu-chua-thi-day-la-bai-viet-ban-nen-doc";s:11:"id_category";s:1:"1";s:9:"describes";s:206:"AI. Máy học. Mạng neuron. Máy tính "nghĩ" theo cách của con người. Những khái niệm đó tưởng như bước ra từ một câu chuyện viễn tưởng nhưng lại không hề xa vời";s:7:"content";s:9765:"<p>Khi đọc về máy tính, bạn có lẽ đã biết rằng máy tính có thể đánh bại con người trên bàn cờ vua từ hàng chục năm trước. Nhưng cùng lúc, người ta vẫn nói rằng trí thông minh của chiếc máy vẫn chỉ ngang ngửa với con ruồi, con muỗi, phải còn rất lâu mới có thể đạt được như con người.</p>
+
+<p>Tại sao lại có sự trái ngược này?</p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 3." src="http://genknews.genkcdn.vn/2017/ai10-1512992296421.jpg"></p>
+
+<p>Nói ngắn gọn, câu trả lời nằm ở lối suy nghĩ theo kiểu "khi nào thì làm gì" của máy tính. Trong hàng chục năm qua, các bộ óc thiên tài của loài người tạo ra các cơ chế phần cứng, các ngôn ngữ lập trình phần mềm để tạo ra những câu lệnh logic "tủn mủn" dạng như: khi nhận được x = 2 thì thông báo x là số chẵn, khi nhận được x = 2 trong phép *4 thì trả về 8 v...v...<em> </em></p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 4." src="http://genknews.genkcdn.vn/2017/ai13-1512992296422.jpg"></p>
+
+<p>"Khi nào thì làm gì" diễn ra ở nhiều cấp độ: nhận được tín hiệu từ bàn phím/chuột truyền về CPU/mainboard thì làm gì, người dùng nhấn Ctrl F trong giao diện Word thì làm gì, máy chủ Facebook nhận được đoạn dữ liệu chứa comment của người dùng thì làm gì... Tất cả các hệ thống, dù phức tạp đến mấy đều được xây dựng từ những lớp "khi nào thì làm gì" tương tự như vậy.</p>
+
+<p>Hiển nhiên, cả phần "khi nào" lẫn phần "làm gì" của máy tính chỉ là những con số. Là byte, là bit. Các biện pháp nhập liệu như bàn phím, chuột, màn hình cảm ứng; những cách thiết kế phần cứng/phần mềm rành mạch để bẻ nhỏ phần trách nhiệm cho từng kỹ sư phần cứng/phần mềm; các hệ điều hành (vốn là tầng phần mềm duy nhất được quyền giao tiếp trực tiếp đến phần cứng), các ngôn ngữ lập trình... đều là những cách để con người có thể truyền tải suy nghĩ của mình vào lối suy nghĩ <em>khi nào thì làm gì </em>của máy móc.</p>
+
+<p>  </p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 5." src="http://genknews.genkcdn.vn/2017/ai16-1512992296423.jpg"></p>
+
+<p>Cuộc sống của tôi và bạn về bản chất cũng là những chuỗi "khi nào thì làm gì". Đau thì khóc, ngửi thấy mùi hôi thì bịt mũi. Khi muốn viết bài gửi Genk thì rê chuột để bật Word. Nhìn thấy mèo thì chạy lại bế lên rồi xuýt xoa... Chúng ta cũng "khi nào thì làm gì", nhưng không phải là bằng 0 và 1 mà là bằng não bộ và các bộ phận tự nhiên của cơ thể, không phải là với những câu lệnh hay tín hiệu "tủn mủn" mà là với những "hành động" lớn có sự tham gia của não bộ và hệ thần kinh.</p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 6." src="http://genknews.genkcdn.vn/2017/ai19-1512992296424.jpg"></p>
+
+<p>Chính sự giống và khác này lý giải vì sao máy tính có thể đánh bại con người trên bàn cờ vua nhưng vẫn thua xa trí thông minh con người: Bàn cờ vua chỉ có 64 ô, có 32 quân cơ chia làm 6 loại và 2 phe. Để thắng được cờ vua, bạn chỉ cần dự tính các bước đi của đối thủ.</p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 7." src="http://genknews.genkcdn.vn/2017/ai22-1512992296425.jpg"></p>
+
+<p>Theo định luật Moore, máy tính cứ 18 tháng 1 lần thì lại mạnh gấp đôi. Năm 1997, máy tính IBM xây dựng được máy tính Deep Blue bao gồm 30 máy con được tích hợp vi xử lý 120MHz/mỗi máy và 480 chip VLSI đặc thù được dùng để tính toán ra 200 triệu vị trí bàn cờ trong một giây. Như thế, bằng cách dự tính được quá nhiều nước cờ chỉ bằng các phép tính kiểu "trâu bò", Deep Blue đã có thể đánh bại đại kiện tướng Kasparov một cách dễ dàng.</p>
+
+<p>Đến nay, con người tuyệt nhiên không còn khả năng đánh bại các app cờ vua trên smartphone. Như thế, chúng ta đã có thể nói rằng <strong>"trí thông minh nhân tạo" (AI) đã có từ lâu: máy tính đã có các "đơn vị thông minh" có thể "cảm nhận" tình huống và tự chọn các hành động để đạt được mục đích của mình </strong>– trong trường hợp của Deep Blue, là "hiểu" và dự đoán được tình thế trên bàn cờ và chọn được bước để chiến thắng trên bàn cờ vua.</p>
+
+<p> </p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 8." src="http://genknews.genkcdn.vn/2017/ai26-1512992296426.jpg"></p>
+
+<p>Khi chuyển sang những cuộc chơi khác, máy tính truyền thống không còn lợi thế với con người. Cờ vây chẳng hạn: trò chơi này có vô số nước đi phức tạp. Ngay cả ở năm 2015, một thế lực như Google cũng không thể tạo ra những server farm (trang trại máy chủ) có khả năng tính hết số nước đi có thể xảy ra trên bàn cờ vây. Một siêu máy tính của 10 năm nữa chưa chắc đã có thể đánh bại con người theo cách tính toán đơn thuần đã từng dùng trên bàn cờ vua.</p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 9." src="http://genknews.genkcdn.vn/2017/ai28-1512992296427.jpg"></p>
+
+<p>Đây là lúc vai trò của "máy học" xuất hiện. AlphaGo trở thành một kỳ thủ giỏi không phải nhờ cách tính toán đơn thuần như DeepBlue, mà là "học" theo kiểu của con người: phải biết các chiến thuật, các bước đi, phải chọn lọc phản ứng phù hợp. Google không dùng phần cứng của AlphaGo để tính toán "tủn mủn" từng bước, mà để nạp dữ liệu từ rất nhiều ván cờ vây của quá khứ, để AlphaGo tự cải thiện bằng cách đấu với các kỳ thủ toàn cầu.</p>
+
+<p>Tổng cộng, AlphaGo đã học 30 triệu bước đi từ các đối thủ con người và còn tự học được nhiều bước đi khác khi tự đấu với chính mình. Những gì AlphaGo biểu hiện chính là định nghĩa của máy học: <strong>máy tính vượt qua thứ logic "bước-luật lệ" bình thường để "học" từ dữ liệu và tự đưa ra các dự đoán phù hợp nhằm tạo các quyết định chính xác nhất.</strong></p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 10." src="http://genknews.genkcdn.vn/2017/ai31-1512992296428.jpg"></p>
+
+<p>3 đại kiện tướng Fan Hui, Lee Sedol và Ke Jie lần lượt bại trận trước cỗ máy của Google. Thậm chí, AlphaGo không chỉ nhận diện được cả<strong> </strong>chiến thuật của đối thủ (ví dụ, khi nào thì Lee Sedol đang đi theo hướng nakade). Với mô hình máy học, "lối suy nghĩ" dần dần vượt ra khỏi sự tủn mủn của bóng bán dẫn để mở rộng thành những "hành động" cao hơn, người hơn.</p>
+
+<p>  </p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 11." src="http://genknews.genkcdn.vn/2017/ai34-1512992296428.jpg"></p>
+
+<p><img alt="Một cách nhìn đơn giản, một cách hiểu phổ thông hơn về AI, máy học và mạng neuron - Ảnh 12." src="http://genknews.genkcdn.vn/2017/ai38-1512992296429.jpg"></p>
+
+<p>Bất chấp những thắng lợi to lớn trên bàn cờ vây - và sau đó là cả thắng lợi trong DOTA2 solo, AI vẫn sẽ phải mất nhiều thời gian nữa mới có thể coi là thông minh ngang ngửa với con người. Cờ vây vẫn là một trò chơi có thể "số hóa" khá dễ: ví dụ, lập trình viên có thể dùng một ô nhớ để đại diện cho một vị trí trên bàn cờ, nếu là quân trắng thì dùng bit 0, quân đen thì dùng bit 1. Dĩ nhiên, giải thuật và cách thực thi của AlphaGo không đơn giản như vậy - nhưng để số hóa được ván cờ vây và số hóa được những hình ảnh, lời nói và hành động đơn giản trong cuộc sống con người vẫn là hai phạm trù khác biệt nhau.</p>
+
+<p>Thử lấy một khái niệm đơn giản: mèo. Tôi có một đứa cháu 2 tuổi rưỡi vừa học nói, mỗi lần bà cho ăn nó lại nói "Bông ăn thì mèo không chạy lại cắn Bông" (vì Bông một lần bị mèo đuổi). Lúc Bông mới học nói, bà bế lên gác, nhìn thấy mèo, dù là mèo tam thể hay mèo Ba Tư, bà đều chỉ cho Bông.</p>
+";s:7:"is_show";s:1:"1";s:5:"image";s:23:"cover-1512992347420.jpg";s:11:"image_thumb";s:29:"cover-1512992347420_thumb.jpg";s:12:"is_highlight";s:1:"0";s:5:"views";N;s:9:"create_at";s:19:"2017-12-19 02:42:32";s:9:"update_at";s:19:"2017-12-19 02:42:32";s:9:"title_seo";N;s:12:"keywords_seo";N;s:15:"description_seo";N;}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:1;s:8:"row_data";N;}
